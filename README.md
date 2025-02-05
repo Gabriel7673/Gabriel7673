@@ -1,6 +1,6 @@
 # Olá, Eu sou Gabriel Martins Voga 👋
 
-Bem-vindo ao meu perfil no GitHub! Aqui você pode encontrar alguns dos meus projetos e contribuições para a comunidade de código aberto.
+Bem-vindo ao meu perfil no GitHub! Aqui você pode encontrar alguns dos meus projetos.
 
 ## 👨‍💻 Sobre mim
 
